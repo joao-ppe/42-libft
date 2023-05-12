@@ -8,7 +8,7 @@ My first library in C language. Project for 42 Porto.
 `ft_isascii` - Verifies if a character is **part of the ascii table**.  
 `ft_isprint` - Verifies if a character is **printable**.  
 `ft_toupper` - Converts an alphabetic character to **uppercase**.
-`ft_tolower` - Converts an alphabetic character to **lowercase**.
+`ft_tolower` - Converts an alphabetic character to **lowercase**.  
 `ft_strlen` - Returns the **length of a string**.  
 `ft_strchr` - Returns a pointer to the **first occurrence** of a **character** in a string.  
 `ft_strrchr` - Returns a pointer to the **first occurrence** of a **character** in a string, starting from the end of the string.  
