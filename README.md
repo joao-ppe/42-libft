@@ -3,7 +3,7 @@ My first library in C language. Project for 42 Porto.
   
 ### **String & Character Manipulation Functions:**  
 `ft_isalpha` - Verifies if a character is **alphabetic**.  
-`ft_isdigit` - Verifies if a character is a **_digit_**.  
+`ft_isdigit` - Verifies if a character is a **digit**.  
 `ft_isalnum` - Verifies if a character is **alphabetic and numeric**.  
 `ft_isascii` - Verifies if a character is **part of the ascii table**.  
 `ft_isprint` - Verifies if a character is **printable**.  
