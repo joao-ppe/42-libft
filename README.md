@@ -1,7 +1,7 @@
-#**42 / COMMON CORE / LIBFT**  
+# **42 / COMMON CORE / LIBFT**  
 My first library in C language. Project for 42 Porto.  
   
-###**String & Character Manipulation Functions:**  
+### **String & Character Manipulation Functions:**  
 `ft_isalpha` - Verifies if a character is **alphabetic**.  
 `ft_isdigit` - Verifies if a character is a **_digit_**.  
 `ft_isalnum` - Verifies if a character is **alphabetic and numeric**.  
@@ -31,7 +31,7 @@ My first library in C language. Project for 42 Porto.
 `ft_putnbr_fd` - Outputs the **integer ’n’** to the given **file descriptor**.  
 
 
-###**Memory Manipulation Functions:**  
+### **Memory Manipulation Functions:**  
 `ft_memset` - Fills the first **n** bytes of an **array** with a **determined character**.  
 `ft_bzero` - Fills the first **n** bytes of an **array** with the **null character**.  
 `ft_memcpy` - Copies n bytes from **src to dest**. The memory areas must **not overlap**.  
@@ -40,7 +40,7 @@ My first library in C language. Project for 42 Porto.
 `ft_memcmp` - Compares the first **n** bytes of **string 1** and **string 2**.  
 `ft_calloc` -  **Allocates  memory for an array** of **nmemb elements** of **size bytes** each and returns a **pointer** to the **allocated memory**.  
 
-###**Linked Lists Functions:**  
+### **Linked Lists Functions:**  
 `ft_lstnew` - **Allocates memory** and returns a **new node**.  
 `ft_lstadd_front` - Adds the **node ’new’** at the **beginning** of the list.  
 `ft_lstsize` - Counts the **number of nodes** in a list.  
@@ -51,4 +51,4 @@ My first library in C language. Project for 42 Porto.
 `ft_lstiter` - Iterates a list and applies the **function ’f’** on the **content of each node**.  
 `ft_lstmap` - Iterates a list and applies the **function ’f’** on the content of each node. **Returns a new list** after the successive applications of the **function ’f’**.  
 
-#Grade: **125%**.
+# Grade: **125%**.
