@@ -7,7 +7,7 @@ My first library in C language. Project for 42 Porto.
 `ft_isalnum` - Verifies if a character is **alphabetic and numeric**.  
 `ft_isascii` - Verifies if a character is **part of the ascii table**.  
 `ft_isprint` - Verifies if a character is **printable**.  
-`ft_toupper` - Converts an alphabetic character to **uppercase**.
+`ft_toupper` - Converts an alphabetic character to **uppercase**.  
 `ft_tolower` - Converts an alphabetic character to **lowercase**.  
 `ft_strlen` - Returns the **length of a string**.  
 `ft_strchr` - Returns a pointer to the **first occurrence** of a **character** in a string.  
@@ -40,7 +40,7 @@ My first library in C language. Project for 42 Porto.
 `ft_memcmp` - Compares the first **n** bytes of **string 1** and **string 2**.  
 `ft_calloc` -  **Allocates  memory for an array** of **nmemb elements** of **size bytes** each and returns a **pointer** to the **allocated memory**.  
 
-###**Linked Lists Functions:**
+###**Linked Lists Functions:**  
 `ft_lstnew` - **Allocates memory** and returns a **new node**.  
 `ft_lstadd_front` - Adds the **node ’new’** at the **beginning** of the list.  
 `ft_lstsize` - Counts the **number of nodes** in a list.  
